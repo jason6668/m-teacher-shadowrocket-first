@@ -1,0 +1,19 @@
+name: Import upstream main
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: README
+          fetch-depth: 0
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch https://github.com/LOWERTOP/Shadowrocket-First.git 53c4995acbfaf6c9db3daf82e2b3aea2d325c14f
+          git checkout -b main FETCH_HEAD
+          git push origin main
