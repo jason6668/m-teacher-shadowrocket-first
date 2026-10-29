@@ -22,13 +22,13 @@
 
 # [马老师专属ShadowStore 资源中心](#shadowstore-资源中心)
 
-> [<img src="https://raw.githubusercontent.com/jason6668/m-teacher-shadowrocket-first/main/img/ShadowStore_ScreenShot.png" width="100%">](https://shadowstore.dpdns.org/ "访问页面")
+> [<img src="https://raw.githubusercontent.com/jason6668/m-teacher-shadowrocket-first/main/img/ShadowStore_ScreenShot.png" width="100%">](https://shadowstore.8818618.xyz/ "访问页面")
 > 
-> **[马老师专属ShadowStore](https://github.com/jason6668/m-teacher-shadowstore)** 是一个专为 Shadowrocket 打造的开源社区资源聚合检索平台，仓库地址是：[马老师专属ShadowStore](https://github.com/jason6668/m-teacher-shadowstore)，发布页地址是：[shadowstore.dpdns.org](https://shadowstore.dpdns.org/)。发布页提供 **资源索引**、**资源检索**、**一键安装**、**一键复制** 等功能，集中收录和整理公开资源，目前已收录超过 1000 款模块及其他资源。网页支持添加快捷方式至主屏幕，并提供应用图标显示，为用户提供更加便捷、沉浸的使用体验
+> **[马老师专属ShadowStore](https://github.com/jason6668/m-teacher-shadowstore)** 是一个专为 Shadowrocket 打造的开源社区资源聚合检索平台，仓库地址是：[马老师专属ShadowStore](https://github.com/jason6668/m-teacher-shadowstore)，发布页地址是：[shadowstore.8818618.xyz](https://shadowstore.8818618.xyz/)。发布页提供 **资源索引**、**资源检索**、**一键安装**、**一键复制** 等功能，集中收录和整理公开资源，目前已收录超过 1000 款模块及其他资源。网页支持添加快捷方式至主屏幕，并提供应用图标显示，为用户提供更加便捷、沉浸的使用体验
 > 
 > 相关资源均直接引用自原始开源仓库。特别鸣谢 **[奶思](https://github.com/fmz200)**、**[zirawell](https://github.com/zirawell)**、**[iab0x00](https://github.com/iab0x00)** 等开源作者
 > 
-> [![访问页面 资源中心](https://img.shields.io/static/v1?label=访问页面&message=资源中心&color=grey&logo=safari&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://shadowstore.dpdns.org/ "访问相应地址")
+> [![访问页面 资源中心](https://img.shields.io/static/v1?label=访问页面&message=资源中心&color=grey&logo=safari&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://shadowstore.8818618.xyz/ "访问相应地址")
 
 ------
 
